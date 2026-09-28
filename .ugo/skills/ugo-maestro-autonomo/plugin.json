@@ -1,0 +1,10 @@
+{
+  "name": "ugo-maestro-autonomo",
+  "version": "0.2.0",
+  "displayName": "UGO Maestro Autónomo",
+  "description": "Agente de ingeniería, auditoría y operaciones para UGO con verificación same-SHA.",
+  "repository": "sebastianzothoficial-cell/ugo-admin-panel",
+  "defaultBranch": "main",
+  "defaultEnvironment": "TEST",
+  "skill": "./SKILL.md"
+}
